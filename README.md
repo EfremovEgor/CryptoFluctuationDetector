@@ -12,3 +12,7 @@
 	    "Регрессия" во вкладке Анализ данных получил зависимость ETHUSDT от
 	    BTCUSDT.
  5. Построил диаграмму и добавил линию тренда.
+
+## Пример вывода в консоль
+
+![Пример вывода в консоль](https://github.com/EfremovEgor/CryptoFluctuationDetector/blob/main/images/output.png?raw=true)
